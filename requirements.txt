@@ -1,0 +1,10 @@
+langchain
+openai
+langchain-community
+streamlit
+sentence-transformers
+faiss-cpu
+langchain_groq
+fastapi
+pydantic
+uvicorn
